@@ -1,4 +1,4 @@
 <?php
-hjkhjklhjklhl
+//2014
 	phpinfo();
 ?>
